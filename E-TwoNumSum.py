@@ -9,3 +9,5 @@ def twoNumberSum(array, targetSum):
 		else:
 			a.add(i)
 	return []
+
+print(twoNumberSum([-7,-5,-3,0,1,4],-3))
