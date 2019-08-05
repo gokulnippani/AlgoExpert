@@ -1,0 +1,135 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"fe884e98-ff56-43a5-ba91-60976b9f9857\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/E-FindClosestValueInBST.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/E-FindClosestValueInBST.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/E-TwoNumSum.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/E-TwoNumSum.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/H-FourNumSum.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/H-FourNumSum.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/M-ThreeNumSum.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/M-ThreeNumSum.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/E-TwoNumSum.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"204\">\r\n              <caret line=\"12\" column=\"40\" selection-start-line=\"12\" selection-start-column=\"40\" selection-end-line=\"12\" selection-end-column=\"40\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/E-FindClosestValueInBST.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"85\">\r\n              <caret line=\"5\" column=\"27\" selection-start-line=\"5\" selection-start-column=\"27\" selection-end-line=\"5\" selection-end-column=\"27\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/M-ThreeNumSum.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"204\">\r\n              <caret line=\"12\" column=\"32\" lean-forward=\"true\" selection-start-line=\"12\" selection-start-column=\"32\" selection-end-line=\"12\" selection-end-column=\"32\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/H-FourNumSum.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"119\">\r\n              <caret line=\"19\" lean-forward=\"true\" selection-start-line=\"19\" selection-end-line=\"19\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/E-TwoNumSum.py\" />\r\n        <option value=\"$PROJECT_DIR$/E-FindClosestValueInBST.py\" />\r\n        <option value=\"$PROJECT_DIR$/M-ThreeNumSum.py\" />\r\n        <option value=\"$PROJECT_DIR$/H-FourNumSum.py\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"x\" value=\"378\" />\r\n    <option name=\"y\" value=\"107\" />\r\n    <option name=\"width\" value=\"1295\" />\r\n    <option name=\"height\" value=\"695\" />\r\n  </component>\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"Scope\" />\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"AlgoExpert\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"AlgoExpert\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/H-FourNumSum.py\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"M-ThreeNumSum\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"AlgoExpert\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"C:\\Users\\chagag\\AppData\\Local\\Programs\\Python\\Python37\\python.exe\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/H-FourNumSum.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"fe884e98-ff56-43a5-ba91-60976b9f9857\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1564682840601</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1564682840601</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-7\" y=\"-7\" width=\"1550\" height=\"838\" extended-state=\"6\" />\r\n    <editor active=\"true\" />\r\n    <layout>\r\n      <window_info id=\"Favorites\" side_tool=\"true\" />\r\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.20808482\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" />\r\n      <window_info anchor=\"bottom\" id=\"Python Console\" weight=\"0.329927\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" weight=\"0.329927\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info active=\"true\" anchor=\"bottom\" id=\"Run\" order=\"2\" visible=\"true\" weight=\"0.33868614\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n    </layout>\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/M-ThreeNumSum.py</url>\r\n          <line>24</line>\r\n          <option name=\"timeStamp\" value=\"3\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/M-ThreeNumSum.py</url>\r\n          <line>9</line>\r\n          <option name=\"timeStamp\" value=\"6\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/E-TwoNumSum.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"204\">\r\n          <caret line=\"12\" column=\"40\" selection-start-line=\"12\" selection-start-column=\"40\" selection-end-line=\"12\" selection-end-column=\"40\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/E-FindClosestValueInBST.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"85\">\r\n          <caret line=\"5\" column=\"27\" selection-start-line=\"5\" selection-start-column=\"27\" selection-end-line=\"5\" selection-end-column=\"27\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/M-ThreeNumSum.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"204\">\r\n          <caret line=\"12\" column=\"32\" lean-forward=\"true\" selection-start-line=\"12\" selection-start-column=\"32\" selection-end-line=\"12\" selection-end-column=\"32\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/H-FourNumSum.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"119\">\r\n          <caret line=\"19\" lean-forward=\"true\" selection-start-line=\"19\" selection-end-line=\"19\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision e67d0980a7d41dde4174561e0cb4da9108ceb5f3)
++++ .idea/workspace.xml	(date 1565030419329)
+@@ -2,10 +2,8 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="fe884e98-ff56-43a5-ba91-60976b9f9857" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/E-FindClosestValueInBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/E-FindClosestValueInBST.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/E-TwoNumSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/E-TwoNumSum.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/H-FourNumSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/H-FourNumSum.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/M-ThreeNumSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/M-ThreeNumSum.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/E-DepthFirstSearch.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -42,11 +40,20 @@
+           </provider>
+         </entry>
+       </file>
+-      <file pinned="false" current-in-tab="true">
++      <file pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/H-FourNumSum.py">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="119">
+-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
++              <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/E-DepthFirstSearch.py">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="306">
++              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+             </state>
+           </provider>
+         </entry>
+@@ -70,14 +77,18 @@
+         <option value="$PROJECT_DIR$/E-FindClosestValueInBST.py" />
+         <option value="$PROJECT_DIR$/M-ThreeNumSum.py" />
+         <option value="$PROJECT_DIR$/H-FourNumSum.py" />
++        <option value="$PROJECT_DIR$/E-DepthFirstSearch.py" />
+       </list>
+     </option>
+   </component>
+   <component name="ProjectFrameBounds" extendedState="6">
+-    <option name="x" value="378" />
+-    <option name="y" value="107" />
+-    <option name="width" value="1295" />
+-    <option name="height" value="695" />
++    <option name="x" value="1911" />
++    <option name="y" value="178" />
++    <option name="width" value="1938" />
++    <option name="height" value="1048" />
++  </component>
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
+   </component>
+   <component name="ProjectView">
+     <navigator proportions="" version="1">
+@@ -115,7 +126,7 @@
+     </option>
+   </component>
+   <component name="RunManager">
+-    <configuration name="M-ThreeNumSum" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
++    <configuration name="H-FourNumSum" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+       <module name="AlgoExpert" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -151,19 +162,20 @@
+     <servers />
+   </component>
+   <component name="ToolWindowManager">
+-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
++    <frame x="1913" y="180" width="1550" height="838" extended-state="6" />
+     <editor active="true" />
+     <layout>
+       <window_info id="Favorites" side_tool="true" />
+-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20808482" />
++      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20808482" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+-      <window_info anchor="bottom" id="Version Control" />
++      <window_info anchor="bottom" id="Version Control" weight="0.329927" />
+       <window_info anchor="bottom" id="Python Console" weight="0.329927" />
+       <window_info anchor="bottom" id="Terminal" weight="0.329927" />
+       <window_info anchor="bottom" id="Event Log" side_tool="true" />
++      <window_info anchor="bottom" id="Messages" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33868614" />
++      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33868614" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+@@ -173,6 +185,16 @@
+       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+     </layout>
+   </component>
++  <component name="Vcs.Log.History.Properties">
++    <option name="COLUMN_ORDER">
++      <list>
++        <option value="0" />
++        <option value="2" />
++        <option value="3" />
++        <option value="1" />
++      </list>
++    </option>
++  </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+       <breakpoints>
+@@ -214,7 +236,14 @@
+     <entry file="file://$PROJECT_DIR$/H-FourNumSum.py">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="119">
+-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
++          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/E-DepthFirstSearch.py">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="306">
++          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+         </state>
+       </provider>
+     </entry>
