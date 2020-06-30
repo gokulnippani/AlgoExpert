@@ -2,7 +2,7 @@ def fourNumberSum(array, targetSum):
     array.sort()
     print(array)
     i=0
-    pairs = dict()
+    pairs = {}
     result = []
     while(i < len(array)-1):
         primary_ele = array[i]
@@ -18,6 +18,7 @@ def fourNumberSum(array, targetSum):
         j = i
         primary_ele = array[j]
 
+        # We add the pair after we visited the elements after the element to aviod dups
         while j>0:
             j -= 1
             current_ele = array[j]
