@@ -3,13 +3,12 @@
 def binarySearch(array, target):
     if not array:
         return -1
-    return binarySearchHelper(0, len(array), array, target)
+    return binarySearchHelper(0, len(array)-1, array, target)
 
 
 def binarySearchHelper(low, high, array, target):
     while low <= high:
-        # Type conversion. Change float to int.
-        mid = int((low + high) / 2)
+        mid = (high - low) // 2 + low
         if array[mid] == target:
             return mid
         elif array[mid] < target:
